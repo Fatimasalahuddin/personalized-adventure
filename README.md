@@ -14,3 +14,4 @@ It uses basic arithmetic operators and takes input from the user to create a fun
 ---
 
 Feel free to contribute or suggest improvements!
+u can also add " #include <conio.h> " if it gives an error while compiling
